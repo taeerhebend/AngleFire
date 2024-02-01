@@ -1,0 +1,6 @@
+@AngleFire.Server_HostAddress = http://localhost:5290
+
+GET {{AngleFire.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
